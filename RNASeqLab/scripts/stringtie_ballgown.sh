@@ -1,0 +1,12 @@
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188044/ERR188044_chrX.gtf hisat_out/ERR188044_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188104/ERR188104_chrX.gtf hisat_out/ERR188104_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188234/ERR188234_chrX.gtf hisat_out/ERR188234_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188245/ERR188245_chrX.gtf hisat_out/ERR188245_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188257/ERR188257_chrX.gtf hisat_out/ERR188257_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188273/ERR188273_chrX.gtf hisat_out/ERR188273_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188337/ERR188337_chrX.gtf hisat_out/ERR188337_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188383/ERR188383_chrX.gtf hisat_out/ERR188383_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188401/ERR188401_chrX.gtf hisat_out/ERR188401_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188428/ERR188428_chrX.gtf hisat_out/ERR188428_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR188454/ERR188454_chrX.gtf hisat_out/ERR188454_chrX.bam
+stringtie -e -B -p 8 -G stringtie_out/stringtie_merged.gtf -o ballgown_out/ERR204916/ERR204916_chrX.gtf hisat_out/ERR204916_chrX.bam

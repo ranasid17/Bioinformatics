@@ -1,0 +1,12 @@
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188044_chrX.gtf -l ERR188044 hisat_out/ERR188044_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188104_chrX.gtf -l ERR188104 hisat_out/ERR188104_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188234_chrX.gtf -l ERR188234 hisat_out/ERR188234_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188245_chrX.gtf -l ERR188245 hisat_out/ERR188245_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188257_chrX.gtf -l ERR188257 hisat_out/ERR188257_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188273_chrX.gtf -l ERR188273 hisat_out/ERR188273_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188337_chrX.gtf -l ERR188337 hisat_out/ERR188337_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188383_chrX.gtf -l ERR188383 hisat_out/ERR188383_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188401_chrX.gtf -l ERR188401 hisat_out/ERR188401_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188428_chrX.gtf -l ERR188428 hisat_out/ERR188428_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR188454_chrX.gtf -l ERR188454 hisat_out/ERR188454_chrX.bam
+stringtie -p 8 -G genes/chrX.gtf -o stringtie_out/ERR204916_chrX.gtf -l ERR204916 hisat_out/ERR204916_chrX.bam
